@@ -6,7 +6,7 @@ Let's do this!</br>
 * Design 12hr clock
 * Project Report
 </br>
-## Design
+##Design
 </br>Design some stuff</br></br>
-## Report
+##Report
 </br>Report some stuff</br></br>
